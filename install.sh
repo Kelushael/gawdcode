@@ -1,5 +1,5 @@
 #!/bin/bash
-# Gawdcode Installer - curl -fsSL github.com/Kelushael/gawdcode/raw/main/install.sh | sudo bash
+# Gawdcode Installer - curl -fsSL https://github.com/Kelushael/gawdcode/raw/main/install.sh | sudo bash
 set -e
 
 REPO="https://github.com/Kelushael/gawdcode"
